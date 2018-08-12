@@ -4,7 +4,7 @@
   <groupId>com.laxmdevops</groupId>
   <artifactId>demo</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-login_feature-SNAPSHOT</version>
   <name>demo</name>
   <url>http://maven.apache.org</url>
   <dependencies>
