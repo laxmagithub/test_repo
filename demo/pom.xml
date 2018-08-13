@@ -15,6 +15,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+
   <distributionManagement>
                 <repository>
                     <id>internalMavenReleaseRepository</id>
@@ -30,7 +32,7 @@
             </distributionManagement>
 
   <properties>
-      <repository.server.root>http://18.222.196.33:8081/repository</repository.server.root>
+      <repository.server.root>http://13.58.141.171:8081/repository</repository.server.root>
         <releases.distribution.url>
             ${repository.server.root}/devops-releases/
         </releases.distribution.url>
