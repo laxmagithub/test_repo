@@ -16,7 +16,6 @@
     </dependency>
   </dependencies>
 
-
   <distributionManagement>
                 <repository>
                     <id>internalMavenReleaseRepository</id>
