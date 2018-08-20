@@ -31,7 +31,7 @@
             </distributionManagement>
 
   <properties>
-      <repository.server.root>http://13.58.141.171:8081/repository</repository.server.root>
+      <repository.server.root>http://localhost:8081/repository</repository.server.root>
         <releases.distribution.url>
             ${repository.server.root}/devops-releases/
         </releases.distribution.url>
