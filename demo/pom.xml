@@ -18,7 +18,7 @@
   
   
   <properties> 
-<sonar.host.url>http://localhost:9000</sonar.host.url>  
+<sonar.host.url>http://52.14.24.186:9000</sonar.host.url>  
 </properties>
 
 <build>
